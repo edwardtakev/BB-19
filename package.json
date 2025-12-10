@@ -1,0 +1,22 @@
+{
+  "name": "BB-9",
+  "version": "2.9.5",
+  "description": "Discord Moderation & Utility Bot",
+  "dependencies": {
+    "audit": "latest",
+    "axios": "latest",
+    "canvacord": "latest",
+    "discord-api-types": "latest",
+    "discord-gamecord": "latest",
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "figlet": "latest",
+    "fs": "latest",
+    "mongoose": "latest",
+    "node": "latest",
+    "npm": "latest",
+    "openai": "latest",
+    "wikijs": "latest",
+    "discord-html-transcripts": "latest"
+  }
+}
