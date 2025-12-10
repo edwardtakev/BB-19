@@ -1,6 +1,6 @@
 {
-  "name": "BB-9",
-  "version": "2.9.5",
+  "name": "BB-19",
+  "version": "3.0.0",
   "description": "Discord Moderation & Utility Bot",
   "dependencies": {
     "audit": "latest",
